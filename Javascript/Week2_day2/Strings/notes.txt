@@ -1,0 +1,4 @@
+Arrays injs:
+array.push(element)  -- to push element in th =e last
+array.unshift(element)  -- add elements to beginning
+array.shift()
